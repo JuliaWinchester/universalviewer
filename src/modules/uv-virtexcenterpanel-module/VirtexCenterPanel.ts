@@ -117,7 +117,7 @@ export class VirtexCenterPanel extends CenterPanel {
                     fullscreenEnabled: false,
                     type: fileType,
                     showStats: this.options.showStats,
-                    dracoDecoderPath: './uv/lib/'
+                    dracoDecoderPath: this.options.dracoDecoderPath
                 }
             });
 

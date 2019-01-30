@@ -87,6 +87,7 @@
     },
     "virtexCenterPanel": {
       "options": {
+        "dracoDecoderPath": "./",
         "showStats": false,
         "trimAttributionCount": 150,
         "vrEnabled": false
